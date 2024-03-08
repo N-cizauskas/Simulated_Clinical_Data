@@ -30,13 +30,21 @@ This data can be used for testing clinical trial analysis methods that require t
 
 ### Simulated_Datasets_RCT.R
 
+- Demographic data for coronavirus (COVID-19) testing (England): 28 May to 26 August (no date) GOV.UK. Available at: https://www.gov.uk/government/publications/demographic-data-for-coronavirus-testing-england-28-may-to-26-august/demographic-data-for-coronavirus-covid-19-testing-england-28-may-to-26-august (Accessed: 8 March 2024).
+- Yang, Z.-R. et al. (2023) ‘Efficacy of SARS-CoV-2 vaccines and the dose–response relationship with three major antibodies: a systematic review and meta-analysis of randomised controlled trials’, The Lancet Microbe, 4(4), pp. e236–e246. Available at: https://doi.org/10.1016/S2666-5247(22)00390-1.
 
 
 ### Simulated_Datasets_Observational.R
 
+- Bernal, J.L. et al. (2021) ‘Early effectiveness of COVID-19 vaccination with BNT162b2 mRNA vaccine and ChAdOx1 adenovirus vector vaccine on symptomatic disease, hospitalisations and mortality in older adults in England’. medRxiv, p. 2021.03.01.21252652. Available at: https://doi.org/10.1101/2021.03.01.21252652.
+- Demographic data for coronavirus (COVID-19) testing (England): 28 May to 26 August (no date) GOV.UK. Available at: https://www.gov.uk/government/publications/demographic-data-for-coronavirus-testing-england-28-may-to-26-august/demographic-data-for-coronavirus-covid-19-testing-england-28-may-to-26-august (Accessed: 8 March 2024).
 
 
 ### Simulated_Datasets_External.R
+
+- Cases in England | Coronavirus in the UK (2023). Available at: https://coronavirus.data.gov.uk/details/cases?areaType=nation&areaName=England (Accessed: 28 February 2024).
+- Demographic data for coronavirus (COVID-19) testing (England): 28 May to 26 August (no date) GOV.UK. Available at: https://www.gov.uk/government/publications/demographic-data-for-coronavirus-testing-england-28-may-to-26-august/demographic-data-for-coronavirus-covid-19-testing-england-28-may-to-26-august (Accessed: 8 March 2024).
+- Statistics » COVID-19 vaccinations archive (no date). Available at: https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-vaccinations/covid-19-vaccinations-archive/ (Accessed: 28 February 2024).
 
 
 
